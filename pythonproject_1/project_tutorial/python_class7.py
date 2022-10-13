@@ -1,0 +1,1 @@
+print("this is sanib", "i am 22 years old")
